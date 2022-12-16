@@ -507,9 +507,8 @@
         padding-left: 35px;
     padding-right: 0px;
     }
-    .video__player iframe {
-        height: 270px;
-    }
+  
+    
     .video_button:nth-of-type(2),
     .video_button:nth-of-type(3),
     .video_button:nth-of-type(4) {
@@ -582,8 +581,9 @@
         max-width: 125px;
         height: 25px;
     }
-    .video__player iframe {
-        height: 185px;
+    
+    .beirut__explosion-player iframe{
+        height: 270px;
     }
     #volume[type=range] {
         width: 80px;
